@@ -198,3 +198,16 @@ a{
         flex: auto;
     }
 }
+
+.citation {
+    margin-top: 35px;
+    width: 55%;
+    min-height: 105px;
+    background-size: 75px;
+    background-position: 15px 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
