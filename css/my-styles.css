@@ -200,9 +200,9 @@ a{
 }
 
 .citation {
-    margin-top: 35px;
-    width: 10%;
-    min-height: 105px;
+    margin-top: 10px;
+    width: 100%;
+    min-height: 70px;
     background-size: 75px;
     background-position: 15px 30px;
     border-radius: 5px;
