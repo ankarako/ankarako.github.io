@@ -200,16 +200,12 @@ a{
 }
 
 .citation {
-    margin-top: 10px;
     width: auto;
-    min-height: 70px;
-    background-size: 75px;
-    background-position: 15px 30px;
     border-radius: 5px;
     background-color:#f2f2f2;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
-    font-size: x-small;
+    font-size: 100%;
 }
