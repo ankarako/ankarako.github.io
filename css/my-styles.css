@@ -201,9 +201,6 @@ a{
 
 .citation {
     width: auto;
-    border-radius: 2px;
     background-color:#f2f2f2;
-    margin-left: 2px;
-    margin-right: 2px;
     font-size: small;
 }
