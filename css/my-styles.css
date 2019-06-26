@@ -1,3 +1,6 @@
+.masthead{
+background-size:cover !important;
+}
 #mainNav .navbar-toggler{
         border-radius: 0 !important;
         outline: 0 !important;
@@ -155,7 +158,6 @@ a{
     .masthead {
         padding-top: 25rem;
         padding-bottom: 17rem;
-        background-size:cover;
     }
     
     .masthead .masthead-heading{
