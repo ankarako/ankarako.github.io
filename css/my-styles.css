@@ -4,7 +4,7 @@ background-size:cover !important;
 #mainNav .navbar-toggler{
         border-radius: 0 !important;
         outline: 0 !important;
-        background-color: #6204BF !important;
+        background-color: rgb(61, 48, 75) !important;
     }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active{
-    background-color: #6204BF !important;
+    background-color: rgba(98, 4, 191, 0.541) !important;
 }
 
 a:hover{
@@ -93,15 +93,15 @@ a:hover{
 }
 
 #qualifications{
-    background-color: #6204BF !important;
+    background-color: rgb(38, 30, 46) !important;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption{
-    background-color: #6204BF !important;
+    background-color: rgb(39, 28, 49) !important;
 }
 
 #contact{
-    background-color: #66F2E4 !important;
+    background-color: rgb(154, 179, 176) !important;
 }
 
 a{
@@ -110,7 +110,7 @@ a{
 
 
 .progress-bar{
-    background-color: rgb(84, 190, 180);
+    background-color: rgb(55, 68, 67);
     font-family: 'Josefin Sans', sans-serif !important;
     height: 35px !important;
     font-weight: 400 !important;
@@ -130,14 +130,14 @@ a{
 
 .btn{
     border-radius:0 !important;
-    background-color: #6204BF;
-    border-color: #6204BF !important;
+    background-color: rgb(62, 43, 82);
+    border-color: rgb(38, 0, 77) !important;
 }
 
 .btn:hover{
     opacity: 0.7;
-    background-color: #6204BF;
-    background-color: #6204BF;
+    background-color: rgb(116, 77, 155);
+    background-color: rgb(64, 3, 124);
 }
 
 @media (max-width:1199px){
