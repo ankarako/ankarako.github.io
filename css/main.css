@@ -241,7 +241,7 @@ a:link:hover, a:visited:hover {
   width: 510px;
 }
 
-.section .item .h3 {
+.section .item h3 {
 	font-family: Helvetica;
 	font-size: 14px;
 }
