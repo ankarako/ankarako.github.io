@@ -110,6 +110,12 @@ a:visited:hover {
 }
 /* @end */
 
+.code_box{
+  background: #f2f2f2;
+  padding: 15px;
+  height: 100%;
+}
+
 /* @group header */
 
 #header {
