@@ -272,7 +272,7 @@ a:visited:hover {
 .section {
   width: 950px;
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 45px 0 20px 0;
   background: url(../images/line.png) repeat-x 0 bottom;
   overflow: hidden;
 }
